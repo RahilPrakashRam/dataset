@@ -1,278 +1,278 @@
-Entity,Story,Year,Records_lost,Organisation,Method_of_leak,No_of_records_stolen,Data_sensitivity,Source_name,Interesting_story
-AOL,A former America Online software engineer stole 92 million screen names and e-mail addresses and sold them to spammers who sent out up to 7 billion unsolicited e-mails.,2004,92000000,web,inside job,92000000,1,CNN,n
-Cardsystems Solutions Inc. ,"CardSystems was fingered by MasterCard after it spotted fraud on credit card accounts and found a common thread, tracing it back to CardSystems.  An unauthorized entity put a specific code into CardSystems' network, enabling the person or group to gain access to the data. It's not clear how many of the 40 million accounts were actually stolen. ",2005,40000000,financial,hacked,40000000,300,MSNBC,y
-Ameritrade Inc.,online broker,2005,200000,financial,lost / stolen device or media,200000,20,NBC,n
-Citigroup,Blame the messenger! A box of computer tapes containing information on 3.9 million customers was lost by United Parcel Service (UPS) while in transit to a credit reporting agency.,2005,3900000,financial,lost / stolen device or media,3900000,300,NY Times,y
-Automatic Data Processing,NA,2005,125000,financial,poor security,130000,20,ABC,n
-AOL,"Durp. AOL VOLUNTARILY released search data for roughly 20 million web queries from 658,000 anonymized users of the service. No one is quite sure why.",2006,20000000,web,accidentally published,20000000,1,Tech Crunch,y
-KDDI,Press reportTokyo police have arrested two men for trying to extort nearly US$90000 from KDDI Corp. The pair allegedly threatened to disclose the existence of storage media containing personal data belonging to four million KDDI customers prior to a shareholder meeting however KDDI alerted the police as soon as they were contacted by the blackmailers the police monitored communications between KDDI and the pair for several weeks.,2006,4000000,telecoms,hacked,4000000,1,Computer World,y
-Countrywide Financial Corp,NA,2006,2600000,financial,inside job,2600000,300,ITRC,n
-Hewlett Packard,Laptop loststolen containing employee data names addresses Social Security numbers dates of birth and other employment related information.,2006,200000,tech retail,lost stolen device or media,200000,20,CNET,y
-"T-Mobile, Deutsche Telecom","Thieves got their hands on a storage device with the data, which included the names, addresses, cell phone numbers, and some birth dates and e-mail addresses for high-profile German citizens. The company said the records did not contain bank details, credit card numbers, or call data.",2006,17000000,telecoms,lost / stolen device or media,17000000,1,Data Loss Database,n
-US Dept of Vet Affairs,The Veterans Affairs Department agreed to pay $20 million to settle a class action lawsuit over the loss of a laptop. The department originally took three weeks to report the theft. The laptop was recovered with the data apparently intact a month after it was reported stolen. But it is impossible to say with absolute certainty that the data was not accessed and copied.  ,2006,26500000,"government, military",lost / stolen device or media,26500000,20,GCN,n
-Monster.com,A trojan virus stole logins that were used to harvest user names email addresses home addresses and phone numbers. Soon after phishing emails encouraged users to download a Monster Job Seeker Tool which was in fact a program that encrypted files in their computer and left a ransom note demanding money for their decryption.,2007,1600000,web,hacked,1600000,20,BBC,y
-Hannaford Brothers Supermarket Chain,An estimated 4.2 million credit and debit card numbers were stolen.,2007,4200000,retail,hacked,4200000,300,ITRC,n
-TD Ameritrade,TD Ameritrade settled a class action lawsuit to compensate as many as 6.3 million TD Ameritrade customers whose data was stolen by hackers costing the Nebraska online brokerage firm less than $2 per victim.,2007,6300000,financial,hacked,6300000,1,Wired,n
-TK / TJ Maxx,"Hackers hacked a Minnesota store wifi network and stole data from credit and debit cards of shoppers at off-price retailers TJX, owners of nearly 2,500 stores, including T.J. Maxx and Marshalls. This case is believed to be the largest such breach of consumer information.",2007,94000000,retail,hacked,94000000,300,ZD Net,n
-Texas Lottery,Data on more than 89000 lottery winners (including names Social Security numbers addresses and prize amounts )were taken from the agency without permission by a former computer analyst who copied the password-free data. The employee added he wanted the information for possible future reference as a programmer at other state agencies.,2007,89000,government,inside job,90000,20,ITRC,n
-Compass Bank,"A former employee stole a hardrive containing 1m account details from the bank, then used it to defraud cutomers of nearly $32,000.",2007,1000000,financial,inside job,1000000,300,ITRC,y
-Fidelity National Information Services,NA,2007,8500000,financial,inside job,8500000,300,PCWorld,n
-Dai Nippon Printing,"A former contractor of Dai Nippon Printing Company in Tokyo, Japan stole 8.6 million records containing the personal data of customers of 43 of the company's clients. ",2007,8637405,retail,inside job,8600000,1,USA Today,n
-City and Hackney Teaching Primary Care Trust,Heavily encrypted disks containing details of children are lost by couriers.,2007,160000,government,lost / stolen device or media,160000,20,Computer Weekly,n
-Gap Inc,"Stolen laptop which contained social security numbers, data on people who applied for positions at Gap stores, including Banana Republic and Old Navy, between July 2006 and June 2007.",2007,800000,retail,lost / stolen device or media,800000,20,PC World,n
-Driving Standards Agency,"Hard disk with details of candidates for the driving theory test was lost in a premises in Iowa by subcontractors. Only names, addresses and phone numbers. ",2007,3000000,government,lost / stolen device or media,3000000,20,BBC News,n
-"Driving Standards Agency,",NA,2007,3000000,government,lost / stolen device or media,3000000,20,BBC News,n
-UK Revenue & Customs,A set of discs containing confidential details of 25 million child benefit recipients was lost.,2007,25000000,government,lost / stolen device or media,25000000,1,BBC News,n
-Jefferson County,Jefferson County Clerk Jennifer Maghan said she unveiled a new online search tool that enabled residents and business professionals to access nearly 1.6 million documents that are stored in her office via their home computers,2008,1600000,government,accidentally published,1600000,20,ITRC,y
-Norwegian Tax Authorities,Tax authorities said they had accidentally sent CD-ROMs filled with the 2006 tax returns of nearly four million people living in Norway a country of just 4.6 million inhabitants to the editorial staff at national newspapers radios and television stations.,2008,3950000,government,accidentally published,4000000,20,Info Watch,y
-RBS Worldpay,"The hack primarily effected U.S. prepaid and the gift card issuing business of RBS Worldpay. Actual fraud has been committed on approximately 100 cards.  Certain personal information of approximately 1.5 million cardholders and other individuals may have been affected and, of this group, Social Security numbers of 1.1 million people may have been accessed.",2008,1500000,financial,hacked,1500000,20,The Register,n
-Data Processors International,NA,2008,5000000,financial,hacked,5000000,1,CNN,n
-Chile Ministry Of Education,A computer hacker in Chile published confidential records belonging to six million people to illustrate the weakness of their security. ,2008,6000000,government,hacked,6000000,1,BBC News,n
-Auction,NA,2008,18000000,web,hacked,18000000,300,Dark reading,n
-GS Caltex,"Two multimedia discs containing the names, social security numbers, addresses, cell phone numbers, email addresses and workplaces of Korean customers sorted by age were stolen. They were found by an office worker in a backstreet’s trash pile in Seoul. Experts say a GS Caltex employee likely stole the information for personal purposes given there were no signs of hacking.",2008,11100000,energy,inside job,11100000,20,Data Loss Database,n
-Service Personnel and Veterans Agency (UK),Stolen USBs containing personal information about private lives of staff. ,2008,50500,government,lost / stolen device or media,50000,20,BBC News,n
-Stanford University,"Tens of thousands of past and current Stanford University employees had personal information - including their dates of birth, Social Security numbers and home addresses - stored on the hard drive of a stolen university laptop.",2008,72000,academic,lost / stolen device or media,72000,20,ITRC,n
-UK Home Office,"PA Consulting lost an unencrypted memory stick containing details of high risk, prolific and other offenders.",2008,84000,government,lost / stolen device or media,84000,20,Wikipedia,n
-ATT,A laptop was stolen from a car containing unencrypted Social Security numbers and bonussalary info of AT&T employees.,2008,113000,telecoms,loststolen device or media,100000,1,ITRC,y
-Starbucks,"A laptop was stolen that contained private information on 97,000 employees, including names, addresses and Social Security numbers. Employees tried to sue Starbucks in California winning their case in the appeals court before losing in the higher federal court as they were unable to prove any cognizable harm or injury.",2008,97000,retail,lost / stolen device or media,100000,20,ITRC,y
-UK Ministry of Defence,"Hard drive containing very sensitive details of Armed Forces personnel - passport & national insurance numbers, bank details etc - went missing. Loss was revealed during National Identity Fraud Prevention Week. ",2008,1700000,government,lost / stolen device or media,1700000,50000,BBC News,y
-University of Miami,Thieves stole a briefcase containing data tapes out of a vehicle used by a private offsite storage company. Anyone who had been a patient of a University of Miami physician or visited a UM facility since 1999 is likely included on the tapes. The data included names addresses Social Security numbers and health information. 47000 of these records may have included credit card or other financial information regarding bill payment.,2008,2100000,academic,lost / stolen device or media,2100000,300,ITRC,n
-University of Utah Hospitals Clinics,The data tapes were stolen by petty thieves from an employees car. According to police reports the thieves tried - and failed - to view the tapes using a VHS player.,2008,2200000,academic,lost / stolen device or media,2200000,4000,ITRC,y
-BNY Mellon Shareowner Services,"A back-up tape, containing over 12 million customers records were lost.",2008,12500000,financial,lost / stolen device or media,12500000,1,ITRC,n
-University of California Berkeley,NA,2009,160000,academic,hacked,160000,300,ITRC,n
-Virginia Prescription Monitoring Program,"A hacker, who was never arrested, demanded a $10 million ransom for a breach effecting 530,000 Virginians. Social security numbers may have been taken. The data was found in a database containing 35 million prescription records.",2009,531400,healthcare,hacked,500000,20,ITRC,y
-Network Solutions,"A large-scale infection of WordPress-driven blogs with malicious code led to the compromise of 573,000 debit and credit cards.",2009,573000,tech,hacked,600000,300,ITRC,n
-CheckFree Corporation, Customers who went to CheckFrees Web sites between 12 35 am and 10 10 am on the day of the attack were redirected to a Ukrainian Web server that used malicious software to try and install a password stealing program on the victims computer.,2009,5000000,financial,hacked,5000000,1,Computer World,y
-Virginia Dept. Of Health,An extortion demand posted on WikiLeaks sought $10 million to return over 8 million patient records and 35 million prescriptions allegedly stolen from Virginia Department of Health Professions.  All 36 servers were shut down  to protect records.,2009,8257378,"government, healthcare",hacked,8300000,4000,ITRC,y
-RockYou!,"The site did not allow users to use special characters or punctuation in their passwords and e-mailed user passwords in plain text. Hackers took advantage of these security lapses, using simple techniques to gain access to 32 million user accounts.",2009,32000000,"web, gaming",hacked,32000000,1,Tech Crunch,y
-Heartland,"The biggest credit card scam in history, Heartland eventually paid more than $110 million to Visa, MasterCard, American Express and other card associations to settle claims related to the breach.",2009,130000000,financial,hacked,130000000,300,Guardian,y
-US Dept of Defense,According to a report to Congress assessment forms of 72000 service members who returned from deployment to Iraq or Afghanistan between Jan 1 2007 to May 31 2008 were breached. The forms ask for the service members SSN. Name date of birth.,2009,72000,military,lost / stolen device or media,72000,20,ITRC,y
-US National Guard,"About 131,000 former and current Army Guard members potentially affected  when a personal laptop owned by an Army Guard contractor was stolen. Database incuded names, Social Security Numbers, incentive payment amounts and payment dates.",2009,131000,military,lost / stolen device or media,130000,20,ITRC,y
-"Affinity Health Plan, Inc.",A rented photocopier used to copy health records did not have its hard-drive wiped before its return. ,2009,344579,healthcare,lost / stolen device or media,300000,4000,US Gov,y
-Blue Cross Blue Shield of Tennessee,"A thief stole 57 hard drives from the closet of a BlueCross call center in Chattanooga, Tenn. Data on the stolen hard drives was encoded but not encrypted. Bluecross stated there was no evidence the information was accessed due to the specialized nature of the hardware stolen. ",2009,1023209,healthcare,lost / stolen device or media,1000000,20,US Gov,y
-"AvMed, Inc.","Two company laptops containing names, addresses, dates of birth, Social Security numbers and health-related information. ",2009,1220000,healthcare,lost / stolen device or media,1200000,20,US Gov,n
-Health Net ,A portable hard drive with seven years of personal and medical information on about 1.5 million Health Net customers was lost for six months before being reported. ,2009,1500000,healthcare,lost / stolen device or media,1500000,4000,ITRC,y
-US Military,"Without first destroying the data the agency sent back a defective unencrypted hard drive for repair and recycling which held detailed records on 76 million veterans, including millions of Social Security numbers dating to 1972.",2009,76000000,military,lost / stolen device or media,76000000,20,ITRC,y
-Yale University,NA,2010,43000,academic,accidentally published,40000,20,ITRC,n
-AT&T,"Details of iPad 3G users hacked from AT&T website, thought to include those of White House chief of staff Rahm Emanuel.",2010,114000,telecoms,hacked,100000,1,Guardian,y
-"Ankle & foot Center of Tampa Bay, Inc.","The information hacked included information such as patient names, social security numbers, date of birth, home addressees, account numbers, and healthcare services and related diagnostic codes.",2010,156000,healthcare,hacked,160000,4000,US Gov,n
-"Seacoast Radiology, PA","Computer gamers hacked a server at Seacoast Radiology in Rochester in search of more bandwidth in November to play Call of Duty: Black Ops. In the process they also gained access to personal records of the more than 230,000 patients of the health center.",2010,231400,healthcare,hacked,200000,20,US Gov,y
-US Federal Reserve Bank of Cleveland,A Malaysian man has been charged with hacking into major US corporations including the US Federal Reserve Bank of Cleveland and FedComp after US Secret Service investigators found more than 400000 stolen credit and debit card account numbers allegedly obtained by hacking into various computer systems of other financial institutions,2010,400000,financial,hacked,400000,300,ITRC,n
-Puerto Rico Department of Health,"Double whammy. Two separate breaches. On September 3rd, 2010 data on 115,000 people was stolen from unauthorized access of an electronic device, on the 21st they reported an additional 400,000 records were hacked. ",2010,515000,healthcare,hacked,500000,4000,US Gov,n
-Ohio State University,NA,2010,760000,academic,hacked,800000,20,ITRC,n
-Gawker.com,"Hacked. 1.5 Million usernames, emails, passwords taken.",2010,1500000,web,hacked,1500000,20,Guardian,n
-Betfair,"Betfair waited 18 months to report the breach of their online gambling site, alarming banking institutions and security experts. Betfair's systems breach, which occurred in March and April 2010, was not uncovered until this past May, when a server crashed.",2010,2300000,web,hacked,2300000,300,ITRC,n
-Embassy Cables,Wikileaks,2010,251000,government,inside job,300000,50000,Wikileaks,n
-US Military,WIKILEAKS!,2010,260000,military,inside job,300000,50000,Guardian,y
-Classified Iraq War documents,Wikileaks,2010,392000,government,inside job,400000,20,Forbes,n
-Colorado government,NA,2010,105470,healthcare,lost / stolen device or media,100000,20,US Gov,n
-Lincoln Medical & Mental Health Center,"130,495 patients lost their protected health information after seven CDs were lost in transit.",2010,130495,healthcare,lost / stolen device or media,130000,4000,US Gov,n
-"Emergency Healthcare Physicians, Ltd.","The stolen portable hard drive is believed to have contained records from 2003 to 2006 that included patient names, addressees, phone numbers, birth dates, Social Security numbers, and, in some cases, drivers' license numbers.",2010,180111,healthcare,lost / stolen device or media,180000,4000,US Gov,n
-"Triple-S Salud, Inc.",NA,2010,398000,healthcare,lost / stolen device or media,400000,4000,Data Breaches,n
-"South Shore Hospital, Massachusetts","South Shore Hospital hired a contractor to destroy files no longer in use and lost the shipment. The back-up computer files possibly contained names, addresses, phone numbers, dates of birth, Social Security numbers, driver’s license numbers, medical record numbers, patient numbers, health plan information, protected health information including diagnoses and treatments. As well as bank account and credit card numbers for some. Patients, employees, physicians, volunteers, donors, vendors and other business partners were effected. ",2010,800000,healthcare,lost / stolen device or media,800000,50000,ITRC,n
-New York City Health Hospitals Corp,NA,2010,1700000,healthcare,lost / stolen device or media,1700000,4000,US Gov,n
-JP Morgan Chase,"In 2007, the personal information of approximately 2.6 million current and former holders of a Chase-Circuit City credit card had been mistakenly identified as trash and thrown out in garbage bags outside five branch offices in New York.",2010,2600000,financial,lost / stolen device or media,2600000,300,ITRC,y
-Educational Credit Management Corp,"A contractor for the US Department of Education stole the records of 3.3 million people. Data included names, addresses, Social Security numbers and dates of birth of borrowers, but no financial or bank account information.",2010,3300000,financial,lost / stolen device or media,3300000,20,ITRC,y
-US Army,NA,2011,50000,military,accidentally published,50000,1,ITRC,n
-State of Texas,"3.5 million records were accidentally published online including people's names, mailing addresses, social security numbers, and in some cases dates of birth and driver's license numbers.",2011,3500000,government,accidentally published,3500000,20,Information Week,n
-Writerspace.com,"Hacker group LulzSec released the e-mails and passwords, 12,000 of which were confirmed to originate from Writerspace.com. ",2011,62000,web,hacked,62000,1,PC Mag,n
-University of Wisconsin - Milwaukee,NA,2011,73000,academic,hacked,73000,20,NA,n
-US Law Enforcement,AntiSec hackers published 2719 social security numbers 8214 passwords 15798 birth dates 48182 street addresses 1531628 email addresses 106691 phone numbers 57 bank account numbers 53 drivers license numbers and eight credit card numbers of more than 70 different US law enforcement agencies.,2011,123461,government,hacked,130000,300,PC World,n
-San Francisco Public Utilities Commission ,NA,2011,180000,government,hacked,180000,1,CNET,n
-Bethesda Game Studios,"Hacking collective Lulzsec stole account information of 200,000 user.",2011,200000,gaming,hacked,200000,1,PC World,n
-Restaurant Depot,NA,2011,200000,retail,hacked,200000,300,ITRC,n
-Epsilon,Apr 2011. Names and email addresses of customers of Barclaycard US Capital One JP Morgan Citigroup and other firms have been stolen.,2011,3000000,web,hacked,3000000,1,The Guardian,n
-Massachusetts Government,Over 1500 departmental computers were infected with the W32.QAKBOT virus a malicious program which downloads additional files steals information and opens a back door on the compromised computer.,2011,210000,government,hacked,200000,50000,ITRC,y
-Southern California Medical-Legal Consultants,"Electronic files containing names and social security numbers of approximately 300,000 individuals who have applied for California workers’ compensation benefits had been exposed to unauthorized access.",2011,300000,healthcare,hacked,300000,20,ID theft centre,n
-Honda Canada,"Names, addresses and vehicle identification numbers were taken from the company’s eCommerce websites myHonda and myAcura",2011,283000,retail,hacked,300000,20,Guelph Mercury,y
-Citigroup,"Less than 1% of Citbank card holders' names, account numbers, and contact information such as e-mail addresses were stolen. Card security codes were not stolen. ",2011,360083,financial,hacked,400000,300,PC World,n
-Stratfor,"Hacking collective Anonymous defaced the website of Stratfor and posted a file online of the organization’s confidential client list, along with credit card details, passwords and home addresses for those clients. They released 47,680 unique e-mail addresses and 50,277 unique credit card numbers — 9,651 of which were not yet expired. Of the stolen encrypted passwords, 50% were easily crackable. ",2011,935000,military,hacked,900000,300,NY Times,n
-Sony Pictures,LulzSec hacking collective stated all of the information it took was unencrypted Sony stored over 1000000 passwords of its customers in plaintext. More than 1 million user accounts were compromised. An additional 75000 music codes and 3.5 million coupons were also uncovered.,2011,1000000,web,hacked,1000000,1,Mashable,y
-Oregon Department of Motor Vehicles,"Sheriff's detectives arrested Tim Nuss for accessing an old Oregon Department of Motor Vehicles database. The DMV database was once sold to marketing companies, but the department stopped selling the information in the late 1990s. The sold data include the names, addresses, birth dates, gender and ages of people who registered with the DMV, but no financial information.  ",2011,1000000,government,hacked,1000000,20,ITRC,n
-Sega,"Information stolen during the hack includes names, birth dates, e-mail addresses and passwords from Sega Pass, a system for users interested in newsletters and for registering certain products. ",2011,1290755,gaming,hacked,1300000,20,ZD Net,n
-Washington Post,Unknown hackers broke into The Washington Posts jobs website stealing about 1.27 million user IDs and email addresses.,2011,1270000,media,hacked,1300000,20,PC Mag,n
-China Software Developer Network,NA,2011,6000000,web,hacked,6000000,1,ZD Net,n
-178.com,gaming website,2011,10000000,web,hacked,10000000,1,eHacking News,n
-Nexon Korea Corp,game developer,2011,13200000,web,hacked,13200000,20,Reuters,n
-Sony Online Entertainment,"Hacked by LulzSec. In addition to the Sony Playstation Network breach, compromised 77 million records. More than 23,000 lost financial data, according to Sony.",2011,24600000,gaming,hacked,24600000,300,Computer World,n
-Tianya,blogging site,2011,28000000,web,hacked,28000000,1,SC Mag,n
-Steam,The Valve Corporation,2011,35000000,web,hacked,35000000,300,BBC News,n
-Sony PSN,"Rounding off a thoroughly unhappy year for Sony, their third breach saw the loss of 76,000,000 Sony PSN and Qriocity user accounts to hacking collective Lulzsec.",2011,77000000,gaming,hacked,77000000,1,Mashable,y
-Countrywide Financial Corp,mortgage lender,2011,2500000,financial,inside job,2500000,20,LATimes,n
-Morgan Stanley Smith Barney,Morgan Stanley mailed a CD containing sensitive data about investors in tax-exempt funds and bonds to the New York State Department of Taxation and Finance. The package arrived at the building but when it arrived at the relevant desk the data CD was missing.,2011,34000,financial,lost / stolen device or media,35000,300,ITRC,y
-Memorial Healthcare System,"An employee of an affiliated physician’s office may have improperly accessed patient information through a web portal used by physicians who provide care and treatment at MHS. Specifically, patients’ names, dates of birth, and Social Security numbers.",2011,102153,healthcare,lost / stolen device or media,100000,20,US Gov,n
-Spartanburg Regional Healthcare System,"The stolen computer contained a password-protected file with Social Security numbers as well as names, addresses, dates of birth and medical billing codes.",2011,400000,healthcare,lost / stolen device or media,400000,4000,US Gov,n
-Eisenhower Medical Center,"Stolen computer contained data listing patients' names, ages, dates of birth, medical record numbers and the last four digits of their social security numbers.",2011,514330,healthcare,lost / stolen device or media,500000,4000,US Gov,n
-Nemours Foundation,A health care organization that runs childrens hospitals reported the loss of 1.05 million records when data backup tapes were lost.,2011,1055489,healthcare,lost / stolen device or media,1100000,4000,US Gov,n
-Health Net - IBM,"Several server drives, containing personal information of former and current employees, went missing.",2011,1900000,healthcare,lost / stolen device or media,1900000,300,ITRC,n
-Sutter Medical Foundation,"A password protected but unencrypted company computer was stolen. The compromised database contained names, addresses, dates of birth, phone numbers, email addresses, medical record numbers and the name of each patient's health insurance plan. No medical records were stored on the computer.",2011,4243434,healthcare,lost / stolen device or media,4200000,20,US Gov,n
-Tricare,"The information for some 4.6 million active and retired military personnel, as well as their families, was on back up-tapes from an electronic health care record used to capture and preserve patient data from 1992 through September 7 2011. ",2011,4901432,"military, healthcare",lost / stolen device or media,4900000,4000,ITRC,n
-NHS,A laptop holding the unencrypted records of eight million patients went missing from an NHS store room and wasnt reported until 3 weeks later. ,2011,8300000,healthcare,lost / stolen device or media,8300000,4000,Tech Week,y
-Accendo Insurance Co. ,"Mismailed letters which allowed some lines of sensitive information (medication name, date of birth, and member ID) to be visible through the envelope window. The mailings were addressed correctly and, to the knowledge of the company, were received by the intended recipients.",2011,175350,healthcare,poor security,180000,20,US Gov,n
-Office of the Texas Attorney General,The office of Texas Attorney General Greg Abbott mistakenly gave attorneys access to millions of Social Security numbers in a case against the state’s voter ID law,2012,6500000,government,accidentally published,6500000,20,Raw Story,n
-Apple,Hacking group AntiSec claimed they hacked an FBI laptop in March 2012 accessing a file of more than 12 million Apple Unique Device Identifiers (UDIDs). Subsequently it was discovered that app developer BlueToad was the source of the breach. The list contained personal information such as full names phone numbers and addresses. AntiSec published a million of these UDIDs online.,2012,12367232,"tech, retail",accidentally published,12400000,20,CNET,y
-Dropbox,NA,2012,30000,web,hacked,30000,1,Information Week,n
-Militarysingles, IP addresses and passwords of single military personnel.,2012,163792,"web, military",hacked,180000,1,PC World,n
-Formspring,"Formspring was tipped off to a breach after 420,000 hashed passwords were posted to a security forum. ",2012,420000,web,hacked,400000,1,CNet,y
-Yahoo Voices,"Yahoo Voices service was hacked, exposing more than 450,000 usernames and passwords.",2012,450000,"tech, web",hacked,500000,1,Slashdot,n
-Medicaid,The Utah Department of Technology Services had recently moved their claims records to a new server and hackers believed to be operating out of Eastern Europe were able to circumvent the servers multilayered security system containing Social Security numbers for the Medicaid claims.,2012,780000,government healthcare,hacked,800000,20,ITRC,y
-Global Payments,1.5 million credit card numbers from its systems may have been exposed after detecting unauthorized access into its processing system. ,2012,7000000,financial,hacked,1500000,300,ITRC,n
-Three Iranian banks,After finding a security vulnerability in Irans banking system software manager Khosrow Zarefarid wrote a formal report and sent it to the CEOs of all the affected banks across the country. When the banks ignored his findings he hacked 3 million bank accounts belonging to at least 22 different banks to prove his point.,2012,3000000,financial,hacked,3000000,50000,ZD Net,y
-"LinkedIn, eHarmony, Last.fm","Hacker 'dwdm' uploaded a file containing 6.5 million passwords on a Russian hacker forum. Soon after another 1.5 million passwords were discovered.  On analysis, 93% of the passwords could be found in the Top 10,000 password list.",2012,8000000,web,hacked,8000000,1,Cnet,n
-Gamigo,German gaming website,2012,8000000,web,hacked,8000000,1,Forbes,n
-KT Corp.,"Two suspects reportedly earnt an estimated $877,000 by selling the contact information and plan details of 8.7 million KT subscribers, almost half of the carrier's total customers.",2012,8700000,telecoms,hacked,8700000,20,Korea Times,n
-Greek government,"A computer programmer was arrested in Greece for allegedly stealing the identity information of what could amount to 83% of the country's population. The 35-year-old was found in possession of 9 million data files containing identification card data, addresses, tax ID numbers and licence plate numbers, which he was also suspected of trying to sell.",2012,9000000,government,hacked,9000000,20,Wired,n
-Blizzard,Scrambled passwords email addresses and personal security answers were knowingly stolen from Blizzards internal network. Blizzard would not elaborate on the size of the hack millions.,2012,14000000,gaming,hacked,14000000,20,Blizzard,n
-Zappos,NA,2012,24000000,web,hacked,24000000,20,Forbes,n
-Last.fm,"Historical 2012 hack, details have only just been disclosed.",2012,43500000,web,hacked,43500000,1,ZD Net,n
-Dropbox,"User credentials were stolen in a 2012 hack, but the number affected has only just come to light. ",2012,68700000,web,hacked,68700000,1,The Telegraph,n
-Massive American business hack,"Over eight years, a hacking ring targeted banks, payment processors and chain stores, to steal more than 160 million credit and debit card numbers, targeting more than 800,000 bank accounts ",2012,160000000,financial,hacked,160000000,50000,NY Daily,y
-LinkedIn,Information about a 2012 data breach has just come to light. ,2012,117000000,web,hacked,117000000,1,CNN,n
-South Carolina State Dept. of Revenue,A server was breached by an international hacker.,2012,3600000,government,hacked,3600000,3,Information Week,n
-South Carolina Government,"A man was charged with five counts of violating medical confidentiality laws and one count of disclosure of confidential information after he gained access to personal information for more than 228,000 Medicaid beneficiaries.",2012,6400000,healthcare,inside job,200000,4000,US Gov,n
-New York State Electric & Gas,An employee from a software consulting firm was allowed unauthorized access to the company’s databases.,2012,1800000,energy,inside job,1800000,20,ITRC,n
-Court Ventures,"A Vietnamese identity theft service was sold personal records, including Social Security numbers, credit card data and bank account information, by Court Ventures, a company now owned by data brokerage firm Experian.",2012,200000000,financial,inside job,200000000,20,NY Times / Experian,n
-Emory Healthcare,"The company 'misplaced' 10 discs containing sensitive information, including social security numbers. ",2012,315000,healthcare,lost / stolen device or media,300000,4000,US Gov,n
-California Department of Child Support Services,California child support records were lost in transit during a disaster preparedness exercise.,2012,800000,government,lost / stolen device or media,800000,20,ITRC,n
-Disqus,"hackers 17.5m email addresses in July 2012. About a third of those accounts contained passwords, which were hashed using the dated SHA-1 algorithm",2012,17500000,web,hacked,17500000,4000,ZD Net,n
-Citigroup,Third big data breach from Citigroup.The personal information of 150000 consumers who went into bankruptcy between 2007 and 2011  including their social security numbers  were exposed after Citi failed to properly redact court records before they were put on the Public Access to Court Electronic Records (PACER) system.,2013,150000,financial,accidentally published,150000,20,Softpedia,y
-TerraCom YourTel,The telecom firms TerraCom and YourTel have branded reporters for Scripps News as hackers after journalists discovered that the personal data of over 170000 customers including social security numbers and other identifying data that could be used for identity theft were sitting on a publicly accessible server.,2013,170000,telecoms,accidentally published,180000,20,Boing Boing; Wired,y
-NMBS,Data stored on a non secure server making it possible to access names gender DOB email and postal address data of customers externally by means of a simple search engine query. Most of the data belong to customers in Belgium France and the UK including thousands of Commission and Parliament employees.  Caused the NMBS said by a data worker clicking on the wrong button.,2013,1460000,transport,accidentally published,1500000,20,European Parliament,n
-Facebook,Using the networks Download Your Information tool some Facebook members were inadvertently sent the phone numbers or email address of Facebook friends that were otherwise private. Facebook assured users that the bug was fixed within a day and that there is no evidence that the information was used maliciously.,2013,6000000,web,accidentally published,6000000,1,Facebook,n
-Central Hudson Gas & Electric,Customer banking information and other personal information may have been accessed during the hack.,2013,110000,energy,hacked,100000,300,Privacy Rights,n
-Kirkwood Community College,NA,2013,125000,academic,hacked,130000,20,Privacy Rights,n
-Washington State court system,"Up to 160,000 Social Security numbers and a million driver's license numbers may have been accessed by hackers exploiting old versions of Adobe Cold Fusion software on the server. ",2013,160000,government,hacked,160000,20,Reuters; Privacy Rights,n
-Nintendo,Japans Club Nintendo service was hacked following thousands of unauthorized accesses. Customer information compromised in the attack includes full names phone numbers home and email addresses.,2013,240000,gaming,hacked,250000,20,JoyStiq,n
-Apple,Developer portal hacked. Some information about 275000 3rd party developers potentially stolen.,2013,275000,tech,hacked,300000,1,The Guardian,n
-OVH,NA,2013,NA,web,hacked,500000,20,OVH,n
-Scribd,Hack resulted in a few hundred thousand stolen passwords.,2013,500000,web,hacked,500000,1,Naked Security; NBC News,n
-Drupal,"Malicious files placed on association.drupal.org servers via a 3rd-party application. Exposed usernames, e-mail addresses, country information, and cryptographically hashed passwords.",2013,1000000,web,hacked,1000000,1,Ars Technica,n
-Ubuntu,July 2013: Discussion forum for the operating system was compromised leaking personal details and password. The passwords were cryptographically scrambled using the MD5 hashing algorithm - considered an inadequate means of protecting stored passwords by security experts.,2013,2000000,tech,hacked,2000000,300,Data Loss Database,y
-ssndob.ms,"SSNDOB was an underground identity theft service. Teenage hackers used it to collect data for exposed.su, a site that listed the SSNs, birthdays, phone numbers, current and previous addresses for dozens of top celebrities including Beyonce, Kanye West and Michelle Obama. In doing so they revealed SSNDOB had data on more than 4 million people.",2013,4000000,web,hacked,4000000,20,Krebs on Security,y
-SnapChat,"31st Dec 2013. Hackers abused an exploit to syphon 4.7m user details, including phone numbers.  Check here to see if your account was compromised: http://lookup.gibsonsec.org/",2013,4700000,"web, tech",hacked,4700000,20,Forbes,n
-Yahoo Japan,22 million Yahoo user IDs may have been leaked after Yahoo detected an unauthorized attempt to access the administrative system of its web portal Yahoo Japan. The leaked information did not include passwords and data necessary for identity verification to reset passwords.,2013,22000000,"tech, web",hacked,22000000,1,Reuters,n
-Adobe,"Sep 17th 2013. Hackers obtained access to a large swathe of Adobe customer IDs and encrypted passwords & removed sensitive information (i.e. names, encrypted credit or debit card numbers, expiration dates, etc.). Approximately 36 million Adobe customers were involved: 3.1 million whose credit or debit card information was taken and nearly 33 million active users whose current, encrypted passwords were in the database taken. Correction Jan 2015: we previously reported 152m records were taking, but the remainder affected invalid, inactive, test accounts or had out-of-date passwords associated with them.",2013,36000000,tech,hacked,36000000,50000,Adobe,y
-Evernote,"Evernote asked its 50 million users to reset their passwords following an attempt to hack the note-taking network. The company said it’d found no evidence that any payment information for Evernote Premium or Evernote Business customers had been accessed, nor was there any indication that content stored by users had been accessed, changed or lost.",2013,50000000,web,hacked,50000000,1,Wired; Digital Trends,n
-Living Social,"Online criminals gained access to user names, e-mail addresses, dates of birth & encrypted passwords for 50 million people. Databases storing financial information were not compromised in the attack, the company said.",2013,50000000,web,hacked,50000000,1,Naked Security; New York Times,n
-UbiSoft,NA,2013,NA,gaming,hacked,58000000,20,UBI,n
-Yahoo,"Happened in 2013 but only disclosed late 2016. Data included names, telephone numbers, DOBs, passwords and security questions. ",2013,1000000000,web,hacked,1000000000,20,NY Times,n
-Tumblr,"Tumblr apparently only just found out about a 2013 data breach, affecting 65m users. ",2013,65000000,web,hacked,65000000,1,Motherboard,n
-Twitter,"Hackers had access to limited user information -- usernames, email addresses, session tokens and encrypted/salted versions of passwords -- for approximately 250,000 users.",2013,250000,web,hacked ,250000,1,Wired,n
-National Security Agency,"Snowden downloaded up to 1.5 million files, then flew to Hong Kong to meet journalists Glenn Greenwald and Laura Poitras before fleeing to Moscow. ",2013,1500000,government,inside job,1500000,50000,Business Insider,y
-Kissinger Cables,Wikileaks,2013,1700000,government,inside job,1700000,300,Wikileaks,n
-Vodafone,An IT contractor for the firm used his deep access to the telecom giants system to copy customer names and bank account details.,2013,2000000,telecoms,inside job,2000000,300,Security Week,y
-"Crescent Health Inc., Walgreens","Names, Social Security numbers, health insurance identification numbers, health insurance information, dates of birth, diagnoses, other medical information, disability codes, addresses, and phone numbers may have been exposed via a laptop theft.",2013,100000,healthcare,lost / stolen device or media,100000,4000,Privacy Rights,n
-Florida Courts,NA,2013,100000,government,lost / stolen device or media,100000,20,Privacy Rights,n
-Florida Department of Juvenile Justice,"Three computers were stolen that contained both youth and employee records was reported stolen on January 2, 2013.  Over 100,000 records were on the device and may have been exposed.",2013,100000,government,lost / stolen device or media,100000,20,Privacy Rights,n
-Advocate Medical Group,"4,000,000 patient names, addresses, dates of birth, and Social Security numbers were contained in four computers stolen from an administrative building. Second biggest security breach ever reported to the Department of Health and Human Services (HHS).",2013,4000000,healthcare,lost / stolen device or media,4000000,20,Health IT Security,y
-Indiana University,Students who attended the university between 2011 and 2014 may have had their data exposed after it was stored on an unprotected site. The data was accessed by three webcrawlers but there is not evidence it was accessed by any unauthorized individuals.,2013,146000,academic,poor security,150000,20,Indiana University,n
-NASDAQ,"Nasdaq forum website hacked by hacking ring, email addresses and passwords compromised",2014,500000,financial,hacked,500000,1,Reuters,y
-Dominios Pizzas (France),NA,2014,600000,web,hacked,600000,1,The Guardian,n
-Japan Airlines,"Oct 2014: Japan Airlines confirmed the possible theft of information from up to around 750,000 frequent-flier programme members. Data that may have been stolen included names, genders, birth dates, addresses, email addresses and places of work.",2014,750000,transport,hacked,800000,20,WSJ,n
-MacRumours.com,NA,2014,860000,web,hacked,900000,1,Wired,n
-"D&B, Altegrity","Hackers stole millions of social security numbers from large US data brokers Dun & Bradstreet Corp and Kroll Background America Inc, owned by Altegrity. Correction 7 Jan 2015: we previously stated that records were stolen from LexisNexis. LexisNexis conducted a thorough investigation of the malware intrusion and found no evidence that the malware accessed or stole any customer or consumer data. ",2014,1000000,tech,hacked,1000000,300,USA Today; Reuters; BBC News,n
-Neiman Marcus,NA,2014,1100000,retail,hacked,1100000,20,NY Times,n
-Staples,NA,2014,1160000,retail,hacked,1200000,300,Fortune,n
-European Central Bank,NA,2014,4000000,financial,hacked,4000000,1,City am,n
-UPS,Malware was discovered in the credit & debit card processing systems at 51 branches in 24 states.,2014,4000000,retail,hacked,4000000,300,Time,n
-Community Health Systems,Aug 2014 Community Health Systems which operates 206 hospitals across the US had patient data from the last 5 years breached. Details included names addresses social security numbers. Suspected chinese hackers were thought responsible. Goal identity theft.,2014,4500000,healthcare,hacked,4500000,20,CNN,y
-Gmail,5 million Gmail account passwords leaked to a forum alongside passwords from other email providers. Close inspection revealed the user details to be old (3+ years). Multiple individual targeted hacks of third party websites where people used their Gmail IDs rather than one big dataleak suspected to be the method. Gmail itself was not hacked. ,2014,5000000,web,hacked,5000000,1,The Next Web,y
-Sony Pictures,Wide ranging hack of potentially every piece of data held by the company including unreleased films and scripts employee social security numbers salaries and health check results as well as sensitive internal business documents relating to layoffs restructures and executive salaries. Lead suspects are North Korean hackers perhaps related to the Seth Rogen film The Interview which mocks the North Korean dictator Kim Jong Un.,2014,10000000,media,hacked,10000000,20,Buzzfeed,n
-Twitch, March 23rd. Details unknown at this point. All Twitchs 10 million users have been requested to change their passwords.,2014,10000000,healthcare,hacked,10000000,1,Twitch,n
-AOL,NA,2014,2400000,web,hacked,24000000,1,AOL,n
-Home Depot,"Malware installed on cash register system across 2,200 stores syphoned credit card details of up to 56 million customers. May be the same group of Russian and Ukrainian hackers responsible for the data breaches at Target, Sally Beauty and P.F. Chang’s, among others",2014,56000000,retail,hacked,56000000,300,Krebs on Security,y
-Target,Investigators believe the data was obtained via software installed on machines that customers use to swipe magnetic strips on their cards when paying for merchandise at Target stores. Originally 40m customers. Now 70m!,2014,70000000,retail,hacked,70000000,300,Chicago Tribune,y
-JP Morgan Chase,"July 2014: The US's largest bank was compromised by hackers, stealing names, addresses, phone numbers and emails of account holders. The hack began in June but was not discovered until July, when the hackers had already obtained the highest level of administrative privilege to dozens of the bank’s computer servers.",2014,76000000,financial,hacked,76000000,300,Deal Book,y
-Ebay,The company has said hackers attacked between late February and early March with login credentials obtained from a small number of employees. They then accessed a database containing all user records and copied a large part of those credentials.,2014,145000000,web,hacked,145000000,1,Chicago Tribune,y
-Yahoo,"Happened in 2014, but no. records stolen was originally thought to be much smaller. Yahoo recently revealed the real numbers.",2014,500000000,web,hacked,500000000,20,Business Insider,n
-HSBC Turkey,In a message to customers on its website the bank said an attack on its credit card and debit card systems in Turkey had been thwarted but card numbers account numbers card expiry dates and customer names had been compromised.,2014,2700000,financial,hacked,2700000,50000,Reuters,n
-Korea Credit Bureau,NA,2014,20000000,financial,inside job,20000000,50000,Security Week,n
-New York Taxis,"A freedom of information request resulted in the release of data on all 173 million journeys undertaken by New York taxis in one year. Unfortunately, the data was incorrectly anonymised and relatively easy to decode, revealing the driver IDs, pickup & dropoff times, and GPS routes taken for every single cab journey.",2014,52000,transport,poor security,52000,1,Medium,y
-Mozilla,NA,2014,76000,web,poor security,800000,20,The Guardian,n
-Imgur,"Imgur are still investigating how the breach took place. The data was stolen in 2014, but Imgur claim they only discovered it in Nov 2017. ",2014,1700000,app,hacked,1700000,4000,Imgur,n
-Facebook,"Cambridge Analytica, headed at the time by Steve Bannon, harvested 50m profiles in early 2014 to build a system that could profile US voters and target them with political adverts. ",2014,50000000,web,hacked,50000000,1,Guardian,n
-Australian Immigration Department,"An employee of the agency inadvertently sent the passport numbers, visa details and other personal identifiers of all world leaders attending the G20 Brisbane summit to the organisers of the Asian Cup football tournament. Barack Obama, Vladimir Putin, Angela Merkel, Xi Jinping, Narendra Modi, David Cameron and many others.",2015,500000,government,accidentally published,500000,50000,The Guardian,n
-Invest Bank,"Hacker breached a United Arab Emirates bank, demanding a ransom of $3m in bitcoin to stop tweeting data, mostly about corporate accounts. The hacker dumped files on the website of a basketball team, which he hacked for storage. The bank, Invest Bank, won't pay the ransom.  ",2015,40000,financial,hacked,40000,50000,Daily Dot ,n
-IRS,An unnamed cybermafia used an IRS app to download forms full of personal information. They posed as legitimate taxpayers and tried to download forms on 200000 people between February and May. They got away with half of them the IRS said. The crooks used about 15000 of them to claim tax refunds in other peoples names.,2015,100000,government,hacked,100000,1,CNN,n
-TalkTalk,"157k customers had personal details stolen, including 15,600 account numbers. ",2015,157000,web,hacked,160000,20,BBC News,n
-MSpy,Data dump to the dark web includes Apple IDs and passwords tracking data and payment details on some 145000 successful transactions photos and very private conversations.,2015,400000,tech,hacked,400000,20,Krebs on Security,n
-British Airways,NA,2015,500000,retail,hacked,500000,1,The Guardian,n
-Hacking Team,"Italian cybersecurity firm sells digital surveillance software to law enforcement and national security organisations. 400 GB of documents - including software source code, private messages & client databases - has been stolen and put online  via BitTorrent. The documents show the company has sold products to repressive regimes.",2015,500000,web,hacked,500000,50000,The Guardian,y
-Slack,NA,2015,500000,tech,hacked,500000,1,Tech Crunch,n
-Carefirst,Attacked happened in June 2014. Was announced in June 2015.,2015,1100000,healthcare,hacked,1100000,1,Carefirst,n
-CarPhone Warehouse,NA,2015,2700000,web,hacked,2700000,50000,The Guardian,n
-Adult Friend Finder,"Sexual preferences, names, email addresses, usernames, dates of birth, postal codes",2015,3900000,web,hacked,3900000,1,Channel 4,n
-US Office of Personnel Management,The intruders gained access to employees Social Security numbers job assignments performance ratings and training information,2015,4000000,government,hacked,4000000,20,Washington Post,n
-VTech,"Software used to download games to children's computer tablets was hacked, with personal info and photos stolen. ",2015,6400000,web,hacked,6400000,50000,The Guardian,n
-Premera,Detected 29th Jan 2015. Occured May 2014. C could include names date of birth email address address telephone number Social Security number member identification numbers bank account information and claims information including clinical information,2015,11000000,healthcare,hacked,11000000,50000,Premera,n
-Kromtech,"A security researcher stumbled on a leak, which exposed usernames, email addresses and passwords of users. He notified Kromtech, who patched it quickly. ",2015,13000000,web,hacked,13000000,1,The Stack,n
-Experian / T-mobile,"The world's biggest data monitoring firm disclosed a massive breach of customers who applied for service with T-Mobile. Names, addresses, birth dates, Social Security numbers, drivers license numbers and passport numbers.",2015,15000000,web,hacked,15000000,300,Reuters,n
-US Office of Personnel Management (2nd Breach),"attackers have targeted the forms submitted by intelligence and military personnel for security clearances. The document includes personal information - everything from eye colour, to financial history, to past substance abuse, as well as contact details for the individual's friends and relatives",2015,21500000,government,hacked,21500000,50000,BBC News,n
-AshleyMadison.com,"20th July 2015: DEVELOPING: Online hookup site for extra-marital affairs has been severely breached and the personal details of 37m users, as well as company financial records, threatened with release. Notorious hacking outfit The Impact Team has claimed responsibility. The hackers are demanding the shutdown of AM.com and other associated sites.",2015,37000000,web,hacked,37000000,1,Krebs on Security,n
-Securus Technologies,"Anonymous hacker leaked records of over 70m phone calls, plus links to recordings. Recording/storing attorney-client calls potentially violates constitutional protections.",2015,70000000,web,hacked,70000000,50000,The Intercept,n
-Uber,"Occured Sep 2014. Revealed Feb 2015. Names & license plates of 50,000 driver partners.",2015,50000,tech,poor security,50000,1,Uber,n
-Sanrio,"Security researcher was able to access a database of 3.3m of Sanrio's Sanriotown.com accounts, with links to other Sanrio Hello Kitty portals.",2015,3300000,web,poor security,3300000,20,CSO Online,n
-Deep Root Analytics,A database of 198 million US voters has been exposed as a result of incorrect configuration. ,2015,198000000,web,poor security,198000000,20,"Reuters, UpGuard",n
-RootsWeb,"Nov. Ancestry.com's community-driven site RootsWeb was exposed after passwords, email addresses and usernames were leaked from the server. ",2015,300000,web,poor security,300000,4000,Threat Post,n
-Privatization Agency of the Republic of Serbia,A text file with personal data and financial documents were made publically available on their website. ,2016,5190396,government,accidentally published,519396,20,Share Conference,n
-Syrian government,"Hacking outfit calling itself 'Cyber Justice Team' leaked 10GB of data from the government and private websites. Seems to be just data from old leaks, though.",2016,274477,government,hacked,274477,1,Softpedia,n
-Minecraft,Players using the Lifeboat servers have had their email addresses and passwords leaked.,2016,7000000,web,hacked,7000000,1,Motherboard,n
-Mossack Fonseca,"2.6TB of data on politicians, criminals, professional athletes etc leaked from law firm Mossack Fonseca, including emails, contracts, scanned documents, transcripts...",2016,11500000,legal,hacked,11500000,50000,PanamaPapers,y
-Mail. ru,Two hackers attacked three game-related forums hosted by Russian company Mail.ru. ,2016,25000000,web,hacked,25000000,20,ZD Net,n
-Fling,"A hacker claims to be selling info on sexual desires & preferences, as well as generic personal info, stolen from the dating site Fling. ",2016,40000000,web,hacked,40000000,4000,Europol,n
-Turkish citizenship database,Turkish citizenship database has allegedly been hacked and leaked online.,2016,49611709,government,hacked,49611709,20,Business Insider,n
-Philippines’ Commission on Elections,"After a message was posted on the COMELEC website by hackers from Anonymous, warning the government not to mess with the elections, the entire database was stolen and posted online. ",2016,55000000,government,hacked,55000000,50000,Trend Micro,n
-Anthem ,"Feb 2015: Names, dates of birth, member ID/ social security numbers, addresses, phone numbers, email addresses and employment information.",2016,80000000,healthcare,hacked,80000000,20,Anthem Facts,y
-VK,Over 100m user accounts were hacked and the data put up for sale online. A VK spokesperson has denied that the site was breached claiming the data for sale is old details no longer in use.,2016,100544934,web,hacked,100544934,4000,Motherboard,n
-Wendys,Malware has been used in 1025 of Wendys restaurants to steal credit card data from customers. Its currently unknown how many individuals have been impacted.,2016,1025,retail,hacked,1025,300,ABC News,n
-MySpace,"The same hacker who was selling LinkedIn user data now claims to have MySpace user data too, and lots of it. ",2016,164000000,web,hacked,164000000,1,Motherboard,n
-Linux Ubuntu forums,NA,2016,2000000,web,hacked,2000000,1,Beta News,n
-uTorrent ,"It's unclear what data has been breached, exactly, but uTorrent has advised passwords are probably compromised. ",2016,35000,web,hacked,35000,1,Torrent Freak,n
-Banner Health,Hackers gained access to payment card data via food outlets at Banner Health locations.,2016,3700000,healthcare,hacked,3700000,300,Banner Health,n
-Mutuelle Generale de la Police,Files uploaded to Google Drive by a malicious employee. Data included home addresses. The leak came two weeks after a French police officer was murdered by ISIS inspired attack.,2016,112000,healthcare,inside job,112000,50000,BBC News,n
-World Check,"2014 version of World-Check, a database of suspected terrorists and criminals, leaked online. It's unclear what data the records include.",2016,2200000,media,poor security,2200000,300,The Stack,n
-Uber,"Uber paid the hackers $100,000 to delete the stolen data. Chief security officer Joe Sullivan has resigned.",2016,57000000,app,hacked,57000000,1,BBC,n
-Red Cross Blood Service,Info leaked includes data about at risk sexual behaviours,2017,550000,healthcare,accidentally published,550000,4000,ABC News,n
-River City Media,"A dodgy backup has allegedly resulted in over a billion leaked email addresses, plus other personal info in some cases, and has exposed RCM's business plans & operations. ",2017,1370000000,web,accidentally published,700000000,20,Beta News,n
-Quest Diagnostics,"Nov. The stolen data contained names, DOBs, lab results and some telephone numbers.",2017,34000,healthcare,hacked,34000,4000,Newsroom,n
-Three,"Hackers broke into Three's customer database with the intention of fraudulently ordering handsets to sell on. They stole personal details, but no financial records or passwords were stored on the hacked system. ",2017,200000,telecoms,hacked,200000,20,Three,n
-Wonga,Apr. Customers from the UK and Poland look to have been affected. ,2017,270000,financial,hacked,270000,50000,The Guardian,n
-PayAsUGym,Dec. Fitness website hacked & email address published online.,2017,300000,web,hacked,300000,1,BBC News,n
-DaFont,"May. Apparently the hacker found out others were selling the site's database, so he decided to get in on the action himself.",2017,700000,web,hacked,700000,4000,ZD Net,n
-Brazzers,"Sept. 'The data contains 790,724 unique email addresses, and also includes usernames and plaintext passwords. (The set has 928,072 entries in all, but many are duplicates.'",2017,790724,web,hacked,790724,4000,Motherboard,n
-Snapchat,Apr Indian hackers apparently leaked data they stole last year in response to Snapchat CEO allegedly stating they had no plans to expand to poor countries like India. Snapchat have yet to confirm any leak.,2017,1700000,app,hacked,1700000,1,BGR,n
-Bell,Somebody claiming to be behind the attack has threatened Bell with more leaks if they dont cooporate. ,2017,1900000,telecoms,hacked,1900000,1,CBC,n
-Cellebrite,Cellebrites main product is a device that rips data from mobile phones. 900GB of data was stolen from Cellebrite. The hackers got hacked. The number of records taken is unknown.,2017,3000000,tech,hacked,3000000,20,Motherboard,y
-Clinton campaign,NA,2017,5000000,government,hacked,5000000,20,Tech Crunch,n
-ClixSense,"Sept. The information stolen contains usernames, passwords, home addresses, payment histories, and other banking details.",2017,6600000,web,hacked,6600000,50000,Digital trends,n
-Lynda.com,"Hackers breached a database that held records of contact info and courses viewed. No official statement yet on how many records were actually stolen, and no evidence yet of them having been published anywhere.",2017,9500000,web,hacked,9500000,1,Neowin,n
-Interpark,July. South Korean police are blaming North Korea for stealing data in an attempt to obtain foreign currency. ,2017,10000000,web,hacked,10000000,20,NY times,n
-Zomato,The hacker is selling the stolen dataset for around $1000. ,2017,17000000,web,hacked,17000000,4000,HackRead,n
-Yahoo,User accounts have been hacked using forged cookies to log in without a password over a 2 year period. ,2017,32000000,web,hacked,32000000,4000,CNet,n
-Weebly,"Feb. Usernames, passwords and IP addresses stolen, although passwords secured with bcrypt. ",2017,43000000,web,hacked,43000000,4000,Tech Crunch,n
-Dailymotion,"85.2m email addresses extracted, but only 18.3m had associated passwords.",2017,85200000,web,hacked,85200000,1,ZDNet,n
-Friend Finder Network,"Usernames, email addresses, passwords for sites including Adult Friend Finder and Penthouse.com. Passwords encrypted, but LeakedSource claims to be able to crack 99% of them.",2017,412000000,web,hacked,412000000,1,ZDNet / LeakedSource,n
-Telegram ,"Despite Telegram's claims of super security, they've been hacked by a group called Rocket Kitten. ",2017,15000000,tech,hacked,15000000,1,Venture Beat,n
-Hong Kong Registration and Electoral Office,the personal information of the citys 3.7 million voters was possibly compromised after the Registration and Electoral Office reported two laptop computers went missing at its backup venue for the chief executive election.,2017,3700000,government,lost / stolen device or media,3700000,20,SCMP,n
-Aadhaar,"Nov. The personal information of more than a billion Indians stored in the world’s largest biometric database can be bought online for less than £6, according to an investigation by an Indian newspaper. The reporter who broke the story has been named in a criminal complaint filed by government agency responsible for the data. ",2017,1000000000,government,accidentally published,1000000000,300,Guardian,n
-CEX,"A misconfigured spambot leaked full contact info & financial details, although the newest financial data dates to 2009. ",2017,2000000,retail,accidentally published,2000000,300,The Guardian,n
-Instagram,"A bug exposed user's contact information. Instagram initially said it affected only verified accounts, but has now admitted non-verified users were also affected. Instagram hasn't confirmed numbers, but hackers say they have info from 6m accounts.",2017,6000000,web,hacked,6000000,1,The Verge,n
-Equifax,"If you have a credit report, there’s a good chance that you’re one of the 143 million American consumers whose sensitive personal information was exposed in a data breach at Equifax, one of the nation’s three major credit reporting agencies.",2017,143000000,financial,hacked,143000000,50000,UK Gov,y
-Nival,"A teen hacker has randomly hacked several Russian websites. In a statement, he claims the hack was revenge for the MH17 crash. The companies affected have not commented, however Troy Hunt, a security researcher, has confirmed its legit. Nival and KM.ru were both hacked. ",2017,1500000,web,hacked,1500000,4000,Motherboard,n
-KM.ru ,"A teen hacker has randomly hacked several Russian websites. In a statement, he claims the hack was revenge for the MH17 crash. The companies affected have not commented, however Troy Hunt, a security researcher, has confirmed its legit. Nival and KM.ru were both hacked. ",2017,1500000,web,hacked,1500000,4000,Motherboard,n
-Waterly,Jan 2017. Israel-based app contained a vulnerability in the sign-in process that could potentially expose user account details. The problem was fixed within 2 weeks of being identifiied. ,2017,1000000,app,poor security,1000000,300,Data Breaches,n
-Swedish Transport Agency,"Information about all vehicles in the country (including military and police), made available to IT workers who hadn't been through usual security checks. The question of whether or not Sweden's national security was harmed is censored in the Säpo (Sweden's security police) report.",2017,3000000,government,poor security,3000000,50000,The Local,y
-Spambot,"A misconfigured spambot has leaked over 7m records, although many of them are likely to be fake or repeated accounts.",2017,711000000,web,poor security,711000000,4000,The Guardian,n
-SVR Tracking,"The leaked passwords were stored using SHA-1, a weak 20yr old hash program.",2017,540000,app,poor security,540000,4000,The Hacker News,n
-Viacom,A misconfigured Amazon Web Server S3 cloud storage bucket was left wide open and public facing.,2017,3000000,web,hacked,3000000,4000,The Hacker News,n
-TIO Networks,The company has not revealed what type of information was stolen. ,2017,1600000,financial,hacked,1600000,4000,Bleeping Computer,n
-Al.type,Dec. The apps developer failed to secure the database server. ,2017,31000000,app,poor security,31000000,4000,ZDNet,n
-Malaysian telcos & MVNOs,"Oct. Data from numerous Malaysian telco & MVNO providers, including Celcom, Digi, Umobile, Maxis, Friendi, Merchantrade Asia, Tunetalk, Redtone, XOX, Altel, PLDT & EnablingAsia has been leaked.",2017,46200000,telecoms,hacked,46200000,4000,LowYat,n
-Malaysian medical practitioners,"Oct. Databases belonging to the Malaysian Medical Council (MMC), the Malaysian Medical Association (MMA), and the Malaysian Dental Association (MDA) have been leaked.",2017,81309,healthcare,hacked,81309,4000,LowYat,n
-MBM Company,"Mar. Negligent storage of a customer database exposed full postal addresses, email addresses, IP addresses and plain-text passwords. ",2018,1300000,retail,poor security,1300000,4000,NextWeb,n
-Orbitz,"Mar. An old version of the Orbitz website was hacked, exposing personal details and payment card info. Orbitz is now owned by Expedia. ",2018,880000,web,hacked,880000,300,US News,n
-Aadhaar,Mar A security researcher discovered a system vulnerability which means that anybody could download private info on all Aadhaar users. The govt. department that deals with the database has denied the breach. ,2018,1100000000,government,poor security,1100000000,4000,ZDNet,n
-Saks and Lord and Taylor,Apr. A known ring of cybercriminals implanted software into store cash registers siphoning off payment card details. The company has not divulged how many accounts have been affected but the research firm that identified the breach believe 5million records may have been stolen. ,2018,5000000,retail,hacked,5000000,300,NYTimes,n
-Panerabread,"Customer records were available via the site for at least 8 months. Panerabread were alerted to the leak in Aug 2017, but didn't pull the site until Apr 2018. Panerabread claims 10k records were leaked, but security researchers put the figure at over 37 million. ",2018,37000000,retail,poor security,37000000,20,"Krebsonsecurity, Medium",n
-MyFitnessPal,"Feb. Usernames, email addresses, and hashed user passwords were stolen. ",2018,150000000,app,hacked,150000000,1,Guardian,n
-Twitter,"May. A glitch caused some passwords to be stored in readable text, visible on the internal computer system. ",2018,330000000,app,poor security,330000000,1,Reuters,n
+Entity,Type_of_Data_and_Device_Lost,Year,Range_of_Records_lost,Organisation,Method_of_leak,Data_sensitivity,Interesting_story
+AOL,Email Address and Passwords,2004,very large,web,inside job,1,n
+Cardsystems Solutions Inc. ,Credit and Debit Card Details,2005,very large,financial,hacked,300,y
+Ameritrade Inc.,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2005,Medium,financial,lost or stolen device or media,20,n
+Citigroup,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2005,Large,financial,lost or stolen device or media,300,y
+Automatic Data Processing,Customer Accounts,2005,Medium,financial,poor security,20,n
+AOL,Search Data,2006,very large,web,accidentally published,1,y
+KDDI,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2006,Large,telecoms,hacked,1,y
+Countrywide Financial Corp,N/A (Others),2006,Large,financial,inside job,300,n
+Hewlett Packard,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2006,Medium,tech retail,lost stolen device or media,20,y
+"T-Mobile, Deutsche Telecom",N/A (Others),2006,very large,telecoms,lost or stolen device or media,1,n
+US Dept of Vet Affairs,N/A (Others),2006,very large,"government, military",lost or stolen device or media,20,n
+Monster.com,Email Address and Passwords,2007,Large,web,hacked,20,y
+Hannaford Brothers Supermarket Chain,Credit and Debit Card Details,2007,Large,retail,hacked,300,n
+TD Ameritrade,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2007,Large,financial,hacked,1,n
+TK / TJ Maxx,Credit and Debit Card Details,2007,very large,retail,hacked,300,n
+Texas Lottery,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2007,Small,government,inside job,20,n
+Compass Bank,"Devices (Laptop, Computer Tapes, Hard Drive, Disks, CD-ROMS, USB)",2007,Large,financial,inside job,300,y
+Fidelity National Information Services,N/A (Others),2007,Large,financial,inside job,300,n
+Dai Nippon Printing,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2007,Large,retail,inside job,1,n
+City and Hackney Teaching Primary Care Trust,"Devices (Laptop, Computer Tapes, Hard Drive, Disks, CD-ROMS, USB)",2007,Medium,government,lost or stolen device or media,20,n
+Gap Inc,Search Data,2007,Medium,retail,lost or stolen device or media,20,n
+Driving Standards Agency,"Devices (Laptop, Computer Tapes, Hard Drive, Disks, CD-ROMS, USB)",2007,Large,government,lost or stolen device or media,20,n
+"Driving Standards Agency,","Devices (Laptop, Computer Tapes, Hard Drive, Disks, CD-ROMS, USB)",2007,Large,government,lost or stolen device or media,20,n
+UK Revenue & Customs,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2007,very large,government,lost or stolen device or media,1,n
+Jefferson County,Search Data,2008,Large,government,accidentally published,20,y
+Norwegian Tax Authorities,"Devices (Laptop, Computer Tapes, Hard Drive, Disks, CD-ROMS, USB)",2008,Large,government,accidentally published,20,y
+RBS Worldpay,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2008,Large,financial,hacked,20,n
+Data Processors International,Credit and Debit Card Details,2008,Large,financial,hacked,1,n
+Chile Ministry Of Education,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2008,Large,government,hacked,1,n
+Auction,N/A (Others),2008,very large,web,hacked,300,n
+GS Caltex,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2008,very large,energy,inside job,20,n
+Service Personnel and Veterans Agency (UK),"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2008,Small,government,lost or stolen device or media,20,n
+Stanford University,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2008,Small,academic,lost or stolen device or media,20,n
+UK Home Office,"Devices (Laptop, Computer Tapes, Hard Drive, Disks, CD-ROMS, USB)",2008,Small,government,lost or stolen device or media,20,n
+ATT,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2008,Medium,telecoms,loststolen device or media,1,y
+Starbucks,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2008,Small,retail,lost or stolen device or media,20,y
+UK Ministry of Defence,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2008,Large,government,lost or stolen device or media,50000,y
+University of Miami,"Devices (Laptop, Computer Tapes, Hard Drive, Disks, CD-ROMS, USB)",2008,Large,academic,lost or stolen device or media,300,n
+University of Utah Hospitals Clinics,"Devices (Laptop, Computer Tapes, Hard Drive, Disks, CD-ROMS, USB)",2008,Large,academic,lost or stolen device or media,4000,y
+BNY Mellon Shareowner Services,"Devices (Laptop, Computer Tapes, Hard Drive, Disks, CD-ROMS, USB)",2008,very large,financial,lost or stolen device or media,1,n
+University of California Berkeley,N/A (Others),2009,Medium,academic,hacked,300,n
+Virginia Prescription Monitoring Program,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2009,Medium,healthcare,hacked,20,y
+Network Solutions,Credit and Debit Card Details,2009,Medium,tech,hacked,300,n
+CheckFree Corporation,Email Address and Passwords,2009,Large,financial,hacked,1,y
+Virginia Dept. Of Health,Health Records and Prescriptions,2009,Large,"government, healthcare",hacked,4000,y
+RockYou!,Email Address and Passwords,2009,very large,"web, gaming",hacked,1,y
+Heartland,Credit and Debit Card Details,2009,Extremely large,financial,hacked,300,y
+US Dept of Defense,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2009,Small,military,lost or stolen device or media,20,y
+US National Guard,"Devices (Laptop, Computer Tapes, Hard Drive, Disks, CD-ROMS, USB)",2009,Medium,military,lost or stolen device or media,20,y
+"Affinity Health Plan, Inc.",Health Records and Prescriptions,2009,Medium,healthcare,lost or stolen device or media,4000,y
+Blue Cross Blue Shield of Tennessee,"Devices (Laptop, Computer Tapes, Hard Drive, Disks, CD-ROMS, USB)",2009,Large,healthcare,lost or stolen device or media,20,y
+"AvMed, Inc.","Customer Information (Name, Address, SSN, DOB, Phone Contact)",2009,Large,healthcare,lost or stolen device or media,20,n
+Health Net ,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2009,Large,healthcare,lost or stolen device or media,4000,y
+US Military,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2009,very large,military,lost or stolen device or media,20,y
+Yale University,N/A (Others),2010,Small,academic,accidentally published,20,n
+AT&T,N/A (Others),2010,Medium,telecoms,hacked,1,y
+"Ankle & foot Center of Tampa Bay, Inc.","Customer Information (Name, Address, SSN, DOB, Phone Contact)",2010,Medium,healthcare,hacked,4000,n
+"Seacoast Radiology, PA","Customer Information (Name, Address, SSN, DOB, Phone Contact)",2010,Medium,healthcare,hacked,20,y
+US Federal Reserve Bank of Cleveland,Credit and Debit Card Details,2010,Medium,financial,hacked,300,n
+Puerto Rico Department of Health,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2010,Medium,healthcare,hacked,4000,n
+Ohio State University,N/A (Others),2010,Medium,academic,hacked,20,n
+Gawker.com,Email Address and Passwords,2010,Large,web,hacked,20,n
+Betfair,N/A (Others),2010,Large,web,hacked,300,n
+Embassy Cables,N/A (Others),2010,Medium,government,inside job,50000,n
+US Military,N/A (Others),2010,Medium,military,inside job,50000,y
+Classified Iraq War documents,N/A (Others),2010,Medium,government,inside job,20,n
+Colorado government,"Devices (Laptop, Computer Tapes, Hard Drive, Disks, CD-ROMS, USB)",2010,Medium,healthcare,lost or stolen device or media,20,n
+Lincoln Medical & Mental Health Center,Health Records and Prescriptions,2010,Medium,healthcare,lost or stolen device or media,4000,n
+"Emergency Healthcare Physicians, Ltd.","Customer Information (Name, Address, SSN, DOB, Phone Contact)",2010,Medium,healthcare,lost or stolen device or media,4000,n
+"Triple-S Salud, Inc.",N/A (Others),2010,Medium,healthcare,lost or stolen device or media,4000,n
+"South Shore Hospital, Massachusetts","Customer Information (Name, Address, SSN, DOB, Phone Contact)",2010,Medium,healthcare,lost or stolen device or media,50000,n
+New York City Health Hospitals Corp,N/A (Others),2010,Large,healthcare,lost or stolen device or media,4000,n
+JP Morgan Chase,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2010,Large,financial,lost or stolen device or media,300,y
+Educational Credit Management Corp,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2010,Large,financial,lost or stolen device or media,20,y
+US Army,N/A (Others),2011,Small,military,accidentally published,1,n
+State of Texas,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2011,Large,government,accidentally published,20,n
+Writerspace.com,Email Address and Passwords,2011,Small,web,hacked,1,n
+University of Wisconsin - Milwaukee,N/A (Others),2011,Small,academic,hacked,20,n
+US Law Enforcement,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2011,Medium,government,hacked,300,n
+San Francisco Public Utilities Commission ,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2011,Medium,government,hacked,1,n
+Bethesda Game Studios,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2011,Medium,gaming,hacked,1,n
+Restaurant Depot,N/A (Others),2011,Medium,retail,hacked,300,n
+Epsilon,Email Address and Passwords,2011,Large,web,hacked,1,n
+Massachusetts Government,N/A (Others),2011,Medium,government,hacked,50000,y
+Southern California Medical-Legal Consultants,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2011,Medium,healthcare,hacked,20,n
+Honda Canada,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2011,Medium,retail,hacked,20,y
+Citigroup,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2011,Medium,financial,hacked,300,n
+Stratfor,Credit and Debit Card Details,2011,Medium,military,hacked,300,n
+Sony Pictures,Customer Accounts,2011,Large,web,hacked,1,y
+Oregon Department of Motor Vehicles,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2011,Large,government,hacked,20,n
+Sega,Email Address and Passwords,2011,Large,gaming,hacked,20,n
+Washington Post,Email Address and Passwords,2011,Large,media,hacked,20,n
+China Software Developer Network,Email Address and Passwords,2011,Large,web,hacked,1,n
+178.com,N/A (Others),2011,very large,web,hacked,1,n
+Nexon Korea Corp,N/A (Others),2011,very large,web,hacked,20,n
+Sony Online Entertainment,Credit and Debit Card Details,2011,very large,gaming,hacked,300,n
+Tianya,N/A (Others),2011,very large,web,hacked,1,n
+Steam,Credit and Debit Card Details,2011,very large,web,hacked,300,n
+Sony PSN,Customer Accounts,2011,very large,gaming,hacked,1,y
+Countrywide Financial Corp,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2011,Large,financial,inside job,20,n
+Morgan Stanley Smith Barney,"Devices (Laptop, Computer Tapes, Hard Drive, Disks, CD-ROMS, USB)",2011,Small,financial,lost or stolen device or media,300,y
+Memorial Healthcare System,Health Records and Prescriptions,2011,Medium,healthcare,lost or stolen device or media,20,n
+Spartanburg Regional Healthcare System,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2011,Medium,healthcare,lost or stolen device or media,4000,n
+Eisenhower Medical Center,Health Records and Prescriptions,2011,Medium,healthcare,lost or stolen device or media,4000,n
+Nemours Foundation,Health Records and Prescriptions,2011,Large,healthcare,lost or stolen device or media,4000,n
+Health Net - IBM,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2011,Large,healthcare,lost or stolen device or media,300,n
+Sutter Medical Foundation,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2011,Large,healthcare,lost or stolen device or media,20,n
+Tricare,Health Records and Prescriptions,2011,Large,"military, healthcare",lost or stolen device or media,4000,n
+NHS,Health Records and Prescriptions,2011,Large,healthcare,lost or stolen device or media,4000,y
+Accendo Insurance Co. ,Health Records and Prescriptions,2011,Medium,healthcare,poor security,20,n
+Office of the Texas Attorney General,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2012,Large,government,accidentally published,20,n
+Apple,N/A (Others),2012,very large,"tech, retail",accidentally published,20,y
+Dropbox,N/A (Others),2012,Small,web,hacked,1,n
+Militarysingles,Customer Accounts,2012,Medium,"web, military",hacked,1,n
+Formspring,Email Address and Passwords,2012,Medium,web,hacked,1,y
+Yahoo Voices,Email Address and Passwords,2012,Medium,"tech, web",hacked,1,n
+Medicaid,N/A (Others),2012,Medium,government healthcare,hacked,20,y
+Global Payments,Credit and Debit Card Details,2012,Large,financial,hacked,300,n
+Three Iranian banks,Credit and Debit Card Details,2012,Large,financial,hacked,50000,y
+"LinkedIn, eHarmony, Last.fm",Email Address and Passwords,2012,Large,web,hacked,1,n
+Gamigo,Email Address and Passwords,2012,Large,web,hacked,1,n
+KT Corp.,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2012,Large,telecoms,hacked,20,n
+Greek government,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2012,Large,government,hacked,20,n
+Blizzard,Email Address and Passwords,2012,very large,gaming,hacked,20,n
+Zappos,Customer Accounts,2012,very large,web,hacked,20,n
+Last.fm,Customer Accounts,2012,very large,web,hacked,1,n
+Dropbox,Email Address and Passwords,2012,very large,web,hacked,1,n
+Massive American business hack,Credit and Debit Card Details,2012,Extremely large,financial,hacked,50000,y
+LinkedIn,Customer Accounts,2012,Extremely large,web,hacked,1,n
+South Carolina State Dept. of Revenue,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2012,Large,government,hacked,3,n
+South Carolina Government,Health Records and Prescriptions,2012,Large,healthcare,inside job,4000,n
+New York State Electric & Gas,N/A (Others),2012,Large,energy,inside job,20,n
+Court Ventures,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2012,Extremely large,financial,inside job,20,n
+Emory Healthcare,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2012,Medium,healthcare,lost or stolen device or media,4000,n
+California Department of Child Support Services,Child Support Records,2012,Medium,government,lost or stolen device or media,20,n
+Disqus,Email Address and Passwords,2012,very large,web,hacked,4000,n
+Citigroup,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2013,Medium,financial,accidentally published,20,y
+TerraCom YourTel,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2013,Medium,telecoms,accidentally published,20,y
+NMBS,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2013,Large,transport,accidentally published,20,n
+Facebook,Email Address and Passwords,2013,Large,web,accidentally published,1,n
+Central Hudson Gas & Electric,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2013,Medium,energy,hacked,300,n
+Kirkwood Community College,N/A (Others),2013,Medium,academic,hacked,20,n
+Washington State court system,N/A (Others),2013,Medium,government,hacked,20,n
+Nintendo,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2013,Medium,gaming,hacked,20,n
+Apple,N/A (Others),2013,Medium,tech,hacked,1,n
+OVH,Email Address and Passwords,2013,Out of Range,web,hacked,20,n
+Scribd,Email Address and Passwords,2013,Medium,web,hacked,1,n
+Drupal,Email Address and Passwords,2013,Large,web,hacked,1,n
+Ubuntu,Email Address and Passwords,2013,Large,tech,hacked,300,y
+ssndob.ms,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2013,Large,web,hacked,20,y
+SnapChat,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2013,Large,"web, tech",hacked,20,n
+Yahoo Japan,N/A (Others),2013,very large,"tech, web",hacked,1,n
+Adobe,Credit and Debit Card Details,2013,very large,tech,hacked,50000,y
+Evernote,Customer Accounts,2013,very large,web,hacked,1,n
+Living Social,Email Address and Passwords,2013,very large,web,hacked,1,n
+UbiSoft,N/A (Others),2013,Out of Range,gaming,hacked,20,n
+Yahoo,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2013,Immense,web,hacked,20,n
+Tumblr,Email Address and Passwords,2013,very large,web,hacked,1,n
+Twitter,Email Address and Passwords,2013,Medium,web,hacked ,1,n
+National Security Agency,N/A (Others),2013,Large,government,inside job,50000,y
+Kissinger Cables,N/A (Others),2013,Large,government,inside job,300,n
+Vodafone,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2013,Large,telecoms,inside job,300,y
+"Crescent Health Inc., Walgreens",Health Records and Prescriptions,2013,Medium,healthcare,lost or stolen device or media,4000,n
+Florida Courts,N/A (Others),2013,Medium,government,lost or stolen device or media,20,n
+Florida Department of Juvenile Justice,"Devices (Laptop, Computer Tapes, Hard Drive, Disks, CD-ROMS, USB)",2013,Medium,government,lost or stolen device or media,20,n
+Advocate Medical Group,Health Records and Prescriptions,2013,Large,healthcare,lost or stolen device or media,20,y
+Indiana University,N/A (Others),2013,Medium,academic,poor security,20,n
+NASDAQ,Email Address and Passwords,2014,Medium,financial,hacked,1,y
+Dominios Pizzas (France),"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2014,Medium,web,hacked,1,n
+Japan Airlines,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2014,Medium,transport,hacked,20,n
+MacRumours.com,Email Address and Passwords,2014,Medium,web,hacked,1,n
+"D&B, Altegrity","Customer Information (Name, Address, SSN, DOB, Phone Contact)",2014,Large,tech,hacked,300,n
+Neiman Marcus,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2014,Large,retail,hacked,20,n
+Staples,Credit and Debit Card Details,2014,Large,retail,hacked,300,n
+European Central Bank,Email Address and Passwords,2014,Large,financial,hacked,1,n
+UPS,Credit and Debit Card Details,2014,Large,retail,hacked,300,n
+Community Health Systems,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2014,Large,healthcare,hacked,20,y
+Gmail,Email Address and Passwords,2014,Large,web,hacked,1,y
+Sony Pictures,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2014,very large,media,hacked,20,n
+Twitch,N/A (Others),2014,very large,healthcare,hacked,1,n
+AOL,N/A (Others),2014,Large,web,hacked,1,n
+Home Depot,Credit and Debit Card Details,2014,very large,retail,hacked,300,y
+Target,N/A (Others),2014,very large,retail,hacked,300,y
+JP Morgan Chase,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2014,very large,financial,hacked,300,y
+Ebay,Email Address and Passwords,2014,Extremely large,web,hacked,1,y
+Yahoo,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2014,Extremely large,web,hacked,20,n
+HSBC Turkey,Credit and Debit Card Details,2014,Large,financial,hacked,50000,n
+Korea Credit Bureau,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2014,very large,financial,inside job,50000,n
+New York Taxis,N/A (Others),2014,Small,transport,poor security,1,y
+Mozilla,Email Address and Passwords,2014,Small,web,poor security,20,n
+Imgur,Email Address and Passwords,2014,Large,app,hacked,4000,n
+Facebook,Customer Accounts,2014,very large,web,hacked,1,n
+Australian Immigration Department,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2015,Medium,government,accidentally published,50000,n
+Invest Bank,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2015,Small,financial,hacked,50000,n
+IRS,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2015,Medium,government,hacked,1,n
+TalkTalk,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2015,Medium,web,hacked,20,n
+MSpy,Email Address and Passwords,2015,Medium,tech,hacked,20,n
+British Airways,Customer Accounts,2015,Medium,retail,hacked,1,n
+Hacking Team,N/A (Others),2015,Medium,web,hacked,50000,y
+Slack,Email Address and Passwords,2015,Medium,tech,hacked,1,n
+Carefirst,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2015,Large,healthcare,hacked,1,n
+CarPhone Warehouse,Credit and Debit Card Details,2015,Large,web,hacked,50000,n
+Adult Friend Finder,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2015,Large,web,hacked,1,n
+US Office of Personnel Management,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2015,Large,government,hacked,20,n
+VTech,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2015,Large,web,hacked,50000,n
+Premera,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2015,very large,healthcare,hacked,50000,n
+Kromtech,Email Address and Passwords,2015,very large,web,hacked,1,n
+Experian / T-mobile,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2015,very large,web,hacked,300,n
+US Office of Personnel Management (2nd Breach),"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2015,very large,government,hacked,50000,n
+AshleyMadison.com,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2015,very large,web,hacked,1,n
+Securus Technologies,N/A (Others),2015,very large,web,hacked,50000,n
+Uber,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2015,Small,tech,poor security,1,n
+Sanrio,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2015,Large,web,poor security,20,n
+Deep Root Analytics,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2015,Extremely large,web,poor security,20,n
+RootsWeb,Email Address and Passwords,2015,Medium,web,poor security,4000,n
+Privatization Agency of the Republic of Serbia,N/A (Others),2016,Large,government,accidentally published,20,n
+Syrian government,N/A (Others),2016,Medium,government,hacked,1,n
+Minecraft,Email Address and Passwords,2016,Large,web,hacked,1,n
+Mossack Fonseca,Email Address and Passwords,2016,very large,legal,hacked,50000,y
+Mail. ru,Email Address and Passwords,2016,very large,web,hacked,20,n
+Fling,N/A (Others),2016,very large,web,hacked,4000,n
+Turkish citizenship database,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2016,very large,government,hacked,20,n
+Philippines’ Commission on Elections,N/A (Others),2016,very large,government,hacked,50000,n
+Anthem ,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2016,very large,healthcare,hacked,20,y
+VK,Customer Accounts,2016,Extremely large,web,hacked,4000,n
+Wendys,Credit and Debit Card Details,2016,Small,retail,hacked,300,n
+MySpace,Email Address and Passwords,2016,Extremely large,web,hacked,1,n
+Linux Ubuntu forums,Email Address and Passwords,2016,Large,web,hacked,1,n
+uTorrent ,Email Address and Passwords,2016,Small,web,hacked,1,n
+Banner Health,N/A (Others),2016,Large,healthcare,hacked,300,n
+Mutuelle Generale de la Police,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2016,Medium,healthcare,inside job,50000,n
+World Check,N/A (Others),2016,Large,media,poor security,300,n
+Uber,Email Address and Passwords,2016,very large,app,hacked,1,n
+Red Cross Blood Service,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2017,Medium,healthcare,accidentally published,4000,n
+River City Media,Email Address and Passwords,2017,Immense,web,accidentally published,20,n
+Quest Diagnostics,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2017,Small,healthcare,hacked,4000,n
+Three,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2017,Medium,telecoms,hacked,20,n
+Wonga,Email Address and Passwords,2017,Medium,financial,hacked,50000,n
+PayAsUGym,Email Address and Passwords,2017,Medium,web,hacked,1,n
+DaFont,Email Address and Passwords,2017,Medium,web,hacked,4000,n
+Brazzers,Email Address and Passwords,2017,Medium,web,hacked,4000,n
+Snapchat,N/A (Others),2017,Large,app,hacked,1,n
+Bell,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2017,Large,telecoms,hacked,1,n
+Cellebrite,Email Address and Passwords,2017,Large,tech,hacked,20,y
+Clinton campaign,N/A (Others),2017,Large,government,hacked,20,n
+ClixSense,Customer Accounts,2017,Large,web,hacked,50000,n
+Lynda.com,N/A (Others),2017,Large,web,hacked,1,n
+Interpark,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2017,very large,web,hacked,20,n
+Zomato,Customer Accounts,2017,very large,web,hacked,4000,n
+Yahoo,Customer Accounts,2017,very large,web,hacked,4000,n
+Weebly,Email Address and Passwords,2017,very large,web,hacked,4000,n
+Dailymotion,Email Address and Passwords,2017,very large,web,hacked,1,n
+Friend Finder Network,Email Address and Passwords,2017,Extremely large,web,hacked,1,n
+Telegram ,Customer Accounts,2017,very large,tech,hacked,1,n
+Hong Kong Registration and Electoral Office,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2017,Large,government,lost or stolen device or media,20,n
+Aadhaar,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2017,Immense,government,accidentally published,300,n
+CEX,Email Address and Passwords,2017,Large,retail,accidentally published,300,n
+Instagram,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2017,Large,web,hacked,1,n
+Equifax,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2017,Extremely large,financial,hacked,50000,y
+Nival,N/A (Others),2017,Large,web,hacked,4000,n
+KM.ru ,N/A (Others),2017,Large,web,hacked,4000,n
+Waterly,Email Address and Passwords,2017,Large,app,poor security,300,n
+Swedish Transport Agency,N/A (Others),2017,Large,government,poor security,50000,y
+Spambot,Customer Accounts,2017,Extremely large,web,poor security,4000,n
+SVR Tracking,Email Address and Passwords,2017,Medium,app,poor security,4000,n
+Viacom,N/A (Others),2017,Large,web,hacked,4000,n
+TIO Networks,N/A (Others),2017,Large,financial,hacked,4000,n
+Al.type,Email Address and Passwords,2017,very large,app,poor security,4000,n
+Malaysian telcos & MVNOs,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2017,very large,telecoms,hacked,4000,n
+Malaysian medical practitioners,Health Records and Prescriptions,2017,Small,healthcare,hacked,4000,n
+MBM Company,Email Address and Passwords,2018,Large,retail,poor security,4000,n
+Orbitz,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2018,Medium,web,hacked,300,n
+Aadhaar,N/A (Others),2018,Immense,government,poor security,4000,n
+Saks and Lord and Taylor,Credit and Debit Card Details,2018,Large,retail,hacked,300,n
+Panerabread,"Customer Information (Name, Address, SSN, DOB, Phone Contact)",2018,very large,retail,poor security,20,n
+MyFitnessPal,Email Address and Passwords,2018,Extremely large,app,hacked,1,n
+Twitter,Email Address and Passwords,2018,Extremely large,app,poor security,1,n
